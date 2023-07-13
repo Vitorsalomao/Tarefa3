@@ -1,0 +1,440 @@
+title,price,area,bath,room,tipo,city
+Apartment in New York,82692800,744.0,7.0,6.0,Apartment,New York
+Apartment in New York,72999000,748.0,6.0,6.0,Apartment,New York
+Residential complexes in New York,69414500,1010.0,6.0,3.0,Residential complexes,New York
+Apartment in New York,60795100,663.0,6.0,4.0,Apartment,New York
+Apartment in New York,60159200,510.0,3.0,3.0,Apartment,New York
+Townhouse in New York,60159200,1114.0,10.0,8.0,Townhouse,New York
+Apartment in New York,60159200,590.0,6.0,5.0,Apartment,New York
+Apartment in New York,59233700,1841.0,14.0,11.0,Apartment,New York
+Apartment in New York,59193300,586.0,5.0,4.0,Apartment,New York
+Apartment in New York,59062500,741.0,4.0,4.0,Apartment,New York
+Apartment in New York,56979900,769.0,7.0,5.0,Apartment,New York
+Townhouse in New York,55531600,1316.0,10.0,7.0,Townhouse,New York
+Apartment in New York,55409000,500.0,6.0,7.0,Apartment,New York
+Residential complexes in New York,54606100,1127.0,4.0,3.0,Residential complexes,New York
+Apartment in New York,52755000,662.0,5.0,4.0,Apartment,New York
+Apartment in New York,46954400,585.0,5.0,4.0,Apartment,New York
+Apartment in New York,46271700,500.0,4.0,4.0,Apartment,New York
+Townhouse in New York,44888000,1003.0,11.0,6.0,Townhouse,New York
+Apartment in New York,44425300,683.0,6.0,5.0,Apartment,New York
+Apartment in New York,42993200,579.0,4.0,4.0,Apartment,New York
+Apartment in New York,43041600,614.0,4.0,4.0,Apartment,New York
+Apartment in New York,42634900,400.0,3.0,3.0,Apartment,New York
+Townhouse in New York,41648700,2113.0,14.0,10.0,Townhouse,New York
+Apartment in New York,38872100,672.0,7.0,5.0,Apartment,New York
+Apartment in New York,37021100,898.0,6.0,5.0,Apartment,New York
+Apartment in New York,37021100,696.0,6.0,5.0,Apartment,New York
+Residential complexes in New York,37021100,421.0,7.0,5.0,Residential complexes,New York
+Apartment in New York,36974800,685.0,5.0,5.0,Apartment,New York
+Apartment in New York,35170000,975.0,7.0,4.0,Apartment,New York
+Apartment in New York,35170000,492.0,3.0,4.0,Apartment,New York
+Residential complexes in New York,32393400,549.0,6.0,4.0,Residential complexes,New York
+Luxury home in New York,32393400,877.0,8.0,5.0,Luxury home,New York
+Apartment in New York,31467900,836.0,6.0,5.0,Apartment,New York
+Apartment in New York,30079600,674.0,6.0,4.0,Apartment,New York
+Residential complexes in New York,29616900,579.0,7.0,4.0,Residential complexes,New York
+Apartment in New York,27765800,400.0,3.0,3.0,Apartment,New York
+Apartment in New York,27742700,428.0,5.0,4.0,Apartment,New York
+Townhouse in New York,27719500,812.0,13.0,10.0,Townhouse,New York
+Residential complexes in New York,27719500,605.0,8.0,7.0,Residential complexes,New York
+Apartment in New York,27580700,599.0,6.0,5.0,Apartment,New York
+Apartment in New York,27571400,615.0,4.0,4.0,Apartment,New York
+Apartment in New York,26933300,479.0,7.0,4.0,Apartment,New York
+Luxury home in New York,26423800,533.0,5.0,6.0,Luxury home,New York
+Apartment in New York,25729600,441.0,4.0,4.0,Apartment,New York
+Townhouse in New York,25452000,959.0,9.0,7.0,Townhouse,New York
+Luxury home in New York,24063700,552.0,7.0,5.0,Luxury home,New York
+Apartment in New York,23138200,430.0,5.0,4.0,Apartment,New York
+Apartment in New York,23133500,452.0,4.0,4.0,Apartment,New York
+Apartment in New York,23128900,607.0,6.0,4.0,Apartment,New York
+Apartment in New York,23115000,636.0,6.0,5.0,Apartment,New York
+Apartment in New York,22675400,505.0,6.0,5.0,Apartment,New York
+Penthouse in New York,22712400,313.0,3.0,3.0,Penthouse,New York
+Apartment in New York,22675400,570.0,5.0,5.0,Apartment,New York
+Apartment in New York,22212600,452.0,5.0,4.0,Apartment,New York
+Apartment in New York,20963200,578.0,4.0,4.0,Apartment,New York
+Residential complexes in New York,20361600,464.0,6.0,4.0,Residential complexes,New York
+Apartment in New York,20361600,2787.0,5.0,5.0,Apartment,New York
+Apartment in New York,19436100,390.0,3.0,3.0,Apartment,New York
+Apartment in New York,19436100,419.0,5.0,4.0,Apartment,New York
+Residential complexes in New York,18973300,309.0,5.0,4.0,Residential complexes,New York
+Apartment in New York,18510500,380.0,4.0,4.0,Apartment,New York
+Residential complexes in New York,18510500,503.0,5.0,5.0,Residential complexes,New York
+"Apartment in Miami, Miami-Dade",54606100,1845.0,7.0,7.0,Apartment,Miami
+"Residential complexes in Miami, Miami-Dade",54606100,1828.0,8.0,7.0,Residential complexes,Miami
+"Luxury home in Miami, Miami-Dade",54606100,2543.0,8.0,7.0,Luxury home,Miami
+"Penthouse in Miami, Miami-Dade",46276300,943.0,7.0,4.0,Penthouse,Miami
+"Apartment in Miami, Miami-Dade",45350800,1637.0,6.0,6.0,Apartment,Miami
+"Apartment in Miami, Miami-Dade",43221100,500.0,5.0,5.0,Apartment,Miami
+"Penthouse in Miami, Miami-Dade",37021100,1120.0,6.0,6.0,Penthouse,Miami
+"Residential complexes in Miami, Miami-Dade",36928500,66.0,1.0,1.0,Residential complexes,Miami
+"Penthouse in Miami, Miami-Dade",32736300,947.0,8.0,7.0,Penthouse,Miami
+"Penthouse in Miami, Miami-Dade",32000000,1000.0,7.0,7.0,Penthouse,Miami
+"Villa in Miami, Miami-Dade",29616900,530.0,7.0,6.0,Villa,Miami
+"Villa in Miami, Miami-Dade",29154100,1367.0,7.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",27673200,303.0,4.0,4.0,Villa,Miami
+"Apartment in Miami, Miami-Dade",25340800,880.0,6.0,6.0,Apartment,Miami
+"Penthouse in Miami, Miami-Dade",25000000,1600.0,6.0,6.0,Penthouse,Miami
+"Villa in Miami, Miami-Dade",24017400,773.0,6.0,6.0,Villa,Miami
+"Detached House in Miami, Miami-Dade",23045600,912.0,10.0,6.0,Detached House,Miami
+"Villa in Miami, Miami-Dade",23045600,912.0,6.0,6.0,Villa,Miami
+"Duplex in Miami, Miami-Dade",23138200,870.0,9.0,6.0,Duplex,Miami
+"Residential complexes in Miami, Miami-Dade",23138200,929.0,10.0,4.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",22675400,603.0,5.0,5.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",22212600,424.0,5.0,5.0,Villa,Miami
+"Villa in Miami, Miami-Dade",21749900,574.0,6.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",21287100,713.0,7.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",20361600,329.0,4.0,4.0,Villa,Miami
+"Villa in Miami, Miami-Dade",20269000,1294.0,10.0,6.0,Villa,Miami
+"Villa in Miami, Miami-Dade",20269000,614.0,6.0,6.0,Villa,Miami
+"Apartment in Miami, Miami-Dade",19389800,961.0,7.0,5.0,Apartment,Miami
+"Residential complexes in Miami, Miami-Dade",18973300,612.0,5.0,4.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",18418000,554.0,6.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",18464300,621.0,5.0,6.0,Villa,Miami
+"Apartment in Miami, Miami-Dade",18140000,929.0,7.0,7.0,Apartment,Miami
+"Villa in Miami, Miami-Dade",18232900,1186.0,7.0,8.0,Villa,Miami
+"Residential complexes in Miami, Miami-Dade",18047800,729.0,7.0,6.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",17492500,763.0,6.0,6.0,Villa,Miami
+"Penthouse in Miami, Miami-Dade",17347100,469.0,5.0,4.0,Penthouse,Miami
+"Residential complexes in Miami, Miami-Dade",17122200,473.0,4.0,4.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",16613200,671.0,4.0,4.0,Villa,Miami
+"Villa in Miami, Miami-Dade",16474400,2583.0,11.0,10.0,Villa,Miami
+"Residential complexes in Miami, Miami-Dade",16474400,780.0,6.0,5.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",16196700,210.0,4.0,5.0,Villa,Miami
+"Penthouse in Miami, Miami-Dade",15734000,901.0,11.0,8.0,Penthouse,Miami
+"Residential complexes in Miami, Miami-Dade",15641400,691.0,3.0,3.0,Residential complexes,Miami
+"Luxury home in Miami, Miami-Dade",14491800,392.0,4.0,4.0,Luxury home,Miami
+"Villa in Miami, Miami-Dade",14577000,221.0,2.0,3.0,Villa,Miami
+"Villa in Miami, Miami-Dade",14345700,525.0,4.0,4.0,Villa,Miami
+"Luxury home in Miami, Miami-Dade",13882000,699.0,7.0,6.0,Luxury home,Miami
+"Residential complexes in Miami, Miami-Dade",13882900,642.0,7.0,6.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",13882900,550.0,6.0,6.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",13882900,641.0,8.0,6.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",12957400,780.0,6.0,5.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",12625000,621.0,4.0,4.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",12494600,363.0,4.0,3.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",12448300,403.0,3.0,5.0,Villa,Miami
+"Apartment in Miami, Miami-Dade",11939300,776.0,6.0,5.0,Apartment,Miami
+"Residential complexes in Miami, Miami-Dade",11985600,929.0,7.0,6.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",11939300,961.0,7.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",11754200,392.0,5.0,6.0,Villa,Miami
+"Villa in Miami, Miami-Dade",11754200,668.0,7.0,6.0,Villa,Miami
+"Residential complexes in Miami, Miami-Dade",11476500,449.0,6.0,5.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",11337700,449.0,5.0,5.0,Villa,Miami
+"Detached House in Miami, Miami-Dade",11337700,449.0,6.0,5.0,Detached House,Miami
+"Villa in Miami, Miami-Dade",11106300,532.0,6.0,5.0,Villa,Miami
+"Penthouse in Miami, Miami-Dade",10874900,602.0,8.0,6.0,Penthouse,Miami
+"Villa in Miami, Miami-Dade",10180800,885.0,8.0,7.0,Villa,Miami
+"Villa in Miami, Miami-Dade",10180800,835.0,8.0,8.0,Villa,Miami
+"Townhouse in Miami, Miami-Dade",9713400,571.0,3.0,3.0,Townhouse,Miami
+"Residential complexes in Miami, Miami-Dade",9718000,438.0,6.0,5.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",9718000,439.0,6.0,5.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",9699500,697.0,8.0,7.0,Villa,Miami
+"Detached House in Miami, Miami-Dade",9421900,699.0,7.0,6.0,Detached House,Miami
+"Villa in Miami, Miami-Dade",9421900,699.0,6.0,6.0,Villa,Miami
+"Luxury home in Miami, Miami-Dade",9255300,329.0,5.0,4.0,Luxury home,Miami
+"Residential complexes in Miami, Miami-Dade",9255300,361.0,6.0,4.0,Residential complexes,Miami
+"Residential complexes in Miami, Miami-Dade",9255300,361.0,5.0,4.0,Residential complexes,Miami
+"Detached House in Miami, Miami-Dade",8792500,504.0,7.0,5.0,Detached House,Miami
+"Villa in Miami, Miami-Dade",8792500,504.0,6.0,5.0,Villa,Miami
+"Residential complexes in Miami, Miami-Dade",8792500,439.0,6.0,5.0,Residential complexes,Miami
+"Villa in Miami, Miami-Dade",8746200,641.0,6.0,6.0,Villa,Miami
+"Detached House in Los Angeles, Los Angeles County",62935800,1858.0,13.0,9.0,Detached House,Los Angeles
+"Luxury home in Los Angeles, Los Angeles County",54606100,3809.0,21.0,8.0,Luxury home,Los Angeles
+"Luxury home in Los Angeles, Los Angeles County",51829500,3126.0,27.0,11.0,Luxury home,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",41648700,788.0,9.0,10.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",37021100,472.0,5.0,4.0,Detached House,Los Angeles
+"Detached House in Bradbury, Los Angeles County",35632800,1356.0,15.0,8.0,Detached House,Los Angeles
+"Detached House in Pacific Palisades, Los Angeles County",34707300,871.0,8.0,5.0,Detached House,Los Angeles
+"Luxury home in Los Angeles, Los Angeles County",32393400,1.0,11.0,7.0,Luxury home,Los Angeles
+"Detached House in Malibu, Los Angeles County",24984600,1340.0,9.0,6.0,Detached House,Los Angeles
+"Detached House in West Los Angeles, Los Angeles County",24526500,1180.0,9.0,5.0,Detached House,Los Angeles
+"Luxury home in Malibu, Los Angeles County",24526500,710.0,6.0,5.0,Luxury home,Los Angeles
+"Apartment in Malibu Beach, Los Angeles County",23138200,557.0,7.0,6.0,Apartment,Los Angeles
+"Rural or Farmhouse in Los Angeles, Los Angeles County",23138200,627.0,6.0,5.0,Rural or Farmhouse,Los Angeles
+"Detached House in Malibu, Los Angeles County",22906800,310.0,5.0,5.0,Detached House,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",22211700,1055.0,13.0,7.0,Detached House,Los Angeles
+"Detached House in Chatsworth, Los Angeles County",19898800,758.0,9.0,7.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",19898800,1044.0,10.0,7.0,Detached House,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",18509600,1114.0,9.0,7.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",17122200,438.0,6.0,4.0,Detached House,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",17117600,1240.0,9.0,10.0,Detached House,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",16654900,1056.0,11.0,7.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",16289300,371.0,6.0,4.0,Detached House,Los Angeles
+"Luxury home in Los Angeles, Los Angeles County",14803800,898.0,8.0,6.0,Luxury home,Los Angeles
+"Detached House in Pacific Palisades, Los Angeles County",14808400,857.0,8.0,5.0,Detached House,Los Angeles
+"Detached House in Palos Verdes Estates, Los Angeles County",13882900,634.0,8.0,5.0,Detached House,Los Angeles
+"Detached House in Palos Verdes Estates, Los Angeles County",12957400,448.0,6.0,7.0,Detached House,Los Angeles
+"Luxury home in Beverly Hills, Los Angeles County",12957400,1301.0,8.0,6.0,Luxury home,Los Angeles
+"Detached House in Manhattan Beach, Los Angeles County",12956400,792.0,10.0,6.0,Detached House,Los Angeles
+"Detached House in West Los Angeles, Los Angeles County",12031800,531.0,8.0,6.0,Detached House,Los Angeles
+"Detached House in Studio City, Los Angeles County",12027200,938.0,9.0,6.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",12013300,537.0,4.0,4.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",11800500,724.0,8.0,6.0,Detached House,Los Angeles
+"Detached House in West Los Angeles, Los Angeles County",11567200,773.0,7.0,5.0,Detached House,Los Angeles
+"Detached House in Hermosa Beach, Los Angeles County",11545900,409.0,6.0,5.0,Detached House,Los Angeles
+"Luxury home in Los Angeles, Los Angeles County",11105400,551.0,4.0,3.0,Luxury home,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",11101700,425.0,4.0,3.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",11013800,345.0,5.0,5.0,Detached House,Los Angeles
+"Detached House in Palos Verdes Estates, Los Angeles County",11013800,1077.0,12.0,8.0,Detached House,Los Angeles
+"Detached House in Manhattan Beach, Los Angeles County",10638900,606.0,9.0,6.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",10412200,148.0,3.0,2.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",10180800,622.0,6.0,6.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",10176200,510.0,5.0,5.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",9787400,281.0,6.0,5.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",9718000,370.0,4.0,4.0,Detached House,Los Angeles
+"Detached House in Manhattan Beach, Los Angeles County",9250600,397.0,5.0,3.0,Detached House,Los Angeles
+"Duplex in Manhattan Beach, Los Angeles County",9232100,426.0,7.0,6.0,Duplex,Los Angeles
+"Detached House in Santa Monica, Los Angeles County",8792500,437.0,5.0,4.0,Detached House,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",8792500,870.0,7.0,5.0,Detached House,Los Angeles
+"Detached House in Hidden Hills, Los Angeles County",8792500,694.0,9.0,6.0,Detached House,Los Angeles
+"Luxury home in Beverly Hills, Los Angeles County",8787900,545.0,6.0,5.0,Luxury home,Los Angeles
+"Luxury home in Diamond Bar, Los Angeles County",8311200,1245.0,10.0,8.0,Luxury home,Los Angeles
+"Detached House in Beverly Hills, Los Angeles County",8329700,594.0,6.0,4.0,Detached House,Los Angeles
+"Penthouse in Hollywood, Los Angeles County",8329700,472.0,5.0,3.0,Penthouse,Los Angeles
+"Mansion in Beverly Hills, Los Angeles County",8328800,520.0,7.0,5.0,Mansion,Los Angeles
+"Luxury home in Beverly Hills, Los Angeles County",8327900,595.0,6.0,6.0,Luxury home,Los Angeles
+"Rural or Farmhouse in Los Angeles, Los Angeles County",8283500,879.0,8.0,6.0,Rural or Farmhouse,Los Angeles
+"Rural or Farmhouse in Beverly Hills, Los Angeles County",8283500,650.0,7.0,7.0,Rural or Farmhouse,Los Angeles
+"Rural or Farmhouse in Beverly Hills, Los Angeles County",8047500,962.0,11.0,8.0,Rural or Farmhouse,Los Angeles
+"Detached House in Calabasas, Los Angeles County",7867000,408.0,4.0,4.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",7867000,520.0,8.0,5.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",7862300,512.0,6.0,6.0,Detached House,Los Angeles
+"Detached House in Malibu, Los Angeles County",7862300,303.0,3.0,4.0,Detached House,Los Angeles
+"Luxury home in Manhattan Beach, Los Angeles County",7769800,554.0,5.0,6.0,Luxury home,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",7773500,665.0,8.0,6.0,Detached House,Los Angeles
+"Detached House in Manhattan Beach, Los Angeles County",7769800,554.0,7.0,6.0,Detached House,Los Angeles
+"Rural or Farmhouse in Los Angeles, Los Angeles County",7769800,836.0,7.0,5.0,Rural or Farmhouse,Los Angeles
+"Detached House in West Los Angeles, Los Angeles County",7584700,401.0,6.0,4.0,Detached House,Los Angeles
+"Rural or Farmhouse in Malibu, Los Angeles County",7404200,317.0,3.0,3.0,Rural or Farmhouse,Los Angeles
+"Detached House in Palos Verdes Estates, Los Angeles County",7403300,525.0,4.0,4.0,Detached House,Los Angeles
+"Rural or Farmhouse in Los Angeles, Los Angeles County",7242200,483.0,4.0,3.0,Rural or Farmhouse,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",7121900,517.0,7.0,4.0,Detached House,Los Angeles
+"Detached House in West Los Angeles, Los Angeles County",6941500,408.0,6.0,4.0,Detached House,Los Angeles
+"Detached House in Los Angeles, Los Angeles County",6939600,562.0,5.0,5.0,Detached House,Los Angeles
+"Rural or Farmhouse in Santa Monica, Los Angeles County",6755400,703.0,8.0,5.0,Rural or Farmhouse,Los Angeles
+"Luxury home in Bel Air, Los Angeles County",6751700,578.0,5.0,7.0,Luxury home,Los Angeles
+"Detached House in Rolling Hills, Los Angeles County",6710100,464.0,6.0,5.0,Detached House,Los Angeles
+"Residential complexes in Tokyo, Tokyo Prefecture",10728900,214.0,4.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",7376100,183.0,1.0,3.0,Residential complexes,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",7040800,403.0,4.0,3.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",6692100,191.0,2.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",5565600,168.0,1.0,1.0,Residential complexes,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",5029200,451.0,2.0,3.0,Detached House,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",4680500,225.0,1.0,3.0,Detached House,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",4345200,542.0,3.0,8.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",4211100,162.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",4023300,111.0,2.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",4023300,110.0,1.0,3.0,Residential complexes,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",3889200,781.0,1.0,8.0,Detached House,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",3889200,408.0,2.0,4.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",3855700,126.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",3520400,98.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",3352800,240.0,2.0,1.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",3319200,117.0,1.0,3.0,Residential complexes,Tokyo
+"Detached House in Setagaya, Tokyo Prefecture",3218700,312.0,3.0,13.0,Detached House,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",3017500,264.0,1.0,5.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2883400,166.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2836400,141.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2816300,103.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2749300,120.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2682200,165.0,1.0,1.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2668800,88.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2648700,155.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2548100,194.0,2.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2534700,106.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2467600,247.0,2.0,5.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2279900,112.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2266500,140.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2212800,202.0,4.0,4.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",2132400,126.0,1.0,2.0,Residential complexes,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",2112200,166.0,1.0,4.0,Detached House,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",2011700,163.0,2.0,3.0,Detached House,Tokyo
+"Detached House in Setagaya, Tokyo Prefecture",2005000,456.0,2.0,5.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1944600,121.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1911100,75.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1720000,75.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1609300,67.0,1.0,2.0,Residential complexes,Tokyo
+"Detached House in Tokyo, Tokyo Prefecture",1542300,171.0,1.0,2.0,Detached House,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1528900,123.0,2.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1441700,71.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1367900,72.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1367900,81.0,1.0,1.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1327700,85.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1327700,105.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1213700,71.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1193600,69.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",1200300,87.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",99910,74.0,1.0,4.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",95890,59.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",93740,75.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Setagaya, Tokyo Prefecture",90520,132.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",87170,85.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",87170,50.0,1.0,1.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",83820,76.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",83820,62.0,1.0,2.0,Residential complexes,Tokyo
+"Residential complexes in Taito, Tokyo Prefecture",79800,71.0,1.0,3.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",58870,58.0,1.0,1.0,Residential complexes,Tokyo
+"Residential complexes in Tokyo, Tokyo Prefecture",56860,119.0,3.0,3.0,Residential complexes,Tokyo
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",24000000,500.0,8.0,7.0,Luxury home,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",20000000,500.0,7.0,5.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",19800000,375.0,4.0,4.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",18850000,700.0,10.0,10.0,Apartment,Paris
+"Apartment in Beaubourg, Marais, Notre Dame - Ile de La Cité, Paris",18500000,450.0,4.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",15750000,592.0,3.0,5.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",14900000,379.0,2.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",13700000,295.0,2.0,2.0,Apartment,Paris
+"Detached House in La Muette, Auteuil, Porte Dauphine, Paris",12500000,400.0,3.0,4.0,Detached House,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",11770000,425.0,3.0,4.0,Luxury home,Paris
+"Apartment in Saint-Germain, Odéon, Monnaie, Paris",11550000,260.0,7.0,3.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",10950000,440.0,5.0,5.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",10800000,374.0,4.0,4.0,Apartment,Paris
+"Duplex in La Muette, Auteuil, Porte Dauphine, Paris",10700000,480.0,11.0,5.0,Duplex,Paris
+"Penthouse in Motte-Picquet, Commerce, Necker, Paris",10500000,260.0,3.0,4.0,Penthouse,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",10375000,465.0,9.0,9.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",9950000,411.0,5.0,5.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",9850000,463.0,7.0,4.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",9700000,319.0,3.0,3.0,Apartment,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",9600000,409.0,3.0,4.0,Luxury home,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",9600000,425.0,1.0,3.0,Luxury home,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",9400000,300.0,2.0,4.0,Apartment,Paris
+"Apartment in Monceau, Courcelles, Ternes, Paris",9200000,342.0,4.0,4.0,Apartment,Paris
+"Apartment in Saint-Germain, Odéon, Monnaie, Paris",8990000,336.0,3.0,3.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",8950000,395.0,4.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",8395000,320.0,4.0,4.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",8100000,189.0,2.0,4.0,Apartment,Paris
+"Apartment in Saint-Germain, Odéon, Monnaie, Paris",8012000,226.0,3.0,5.0,Apartment,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",7900000,420.0,4.0,4.0,Luxury home,Paris
+"Detached House in La Muette, Auteuil, Porte Dauphine, Paris",7900000,420.0,4.0,4.0,Detached House,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",7900000,420.0,6.0,5.0,Luxury home,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",7875000,150.0,4.0,4.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",7850000,138.0,1.0,2.0,Apartment,Paris
+"Apartment in Monceau, Courcelles, Ternes, Paris",7700000,284.0,4.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",7645000,317.0,3.0,4.0,Apartment,Paris
+"Apartment in Saint-Germain, Odéon, Monnaie, Paris",7600000,309.0,3.0,4.0,Apartment,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",7560000,295.0,2.0,3.0,Apartment,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",7500000,178.0,4.0,3.0,Apartment,Paris
+"Luxury home in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",7500000,259.0,1.0,5.0,Luxury home,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",7400000,295.0,6.0,4.0,Apartment,Paris
+"Detached House in Sorbonne, Jardin des Plantes, Saint-Victor, Paris",7350000,795.0,3.0,3.0,Detached House,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",7300000,340.0,2.0,4.0,Apartment,Paris
+"Luxury home in La Muette, Auteuil, Porte Dauphine, Paris",7200000,465.0,5.0,5.0,Luxury home,Paris
+"Luxury home in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",6995000,265.0,4.0,5.0,Luxury home,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",6975900,332.0,3.0,4.0,Apartment,Paris
+"Apartment in Champs-Elysées, Madeleine, Triangle d’or, Paris",6950000,257.0,4.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6909000,274.0,3.0,5.0,Apartment,Paris
+"Apartment in Monceau, Courcelles, Ternes, Paris",6840000,416.0,2.0,6.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6825000,237.0,2.0,3.0,Apartment,Paris
+"Apartment in Chatelet les Halles, Louvre-Tuileries, Palais Royal, Paris",6800000,207.0,2.0,2.0,Apartment,Paris
+"Luxury home in Champs-Elysées, Madeleine, Triangle d’or, Paris",6600000,327.0,3.0,4.0,Luxury home,Paris
+"Apartment in Chatelet les Halles, Louvre-Tuileries, Palais Royal, Paris",6500000,192.0,6.0,3.0,Apartment,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",6500000,234.0,1.0,4.0,Apartment,Paris
+"Apartment in Chatelet les Halles, Louvre-Tuileries, Palais Royal, Paris",6500000,189.0,3.0,4.0,Apartment,Paris
+"Apartment in Saint-Germain, Odéon, Monnaie, Paris",6500000,287.0,6.0,6.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6400000,309.0,8.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6400000,309.0,4.0,4.0,Apartment,Paris
+"Apartment in Tour Eiffel, Invalides – Ecole Militaire, Saint-Thomas d’Aquin, Paris",6390000,195.0,2.0,3.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6300000,428.0,3.0,4.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6300000,432.0,5.0,5.0,Apartment,Paris
+"Apartment in La Muette, Auteuil, Porte Dauphine, Paris",6200000,221.0,3.0,3.0,Apartment,Paris
+Hotel in Dubai,250000000,12000.0,230.0,220.0,Hotel,Dubai
+Villa in Dubai,87883800,3874.0,13.0,10.0,Villa,Dubai
+Villa in Dubai,75544800,849.0,7.0,6.0,Villa,Dubai
+Villa in Dubai,74042100,1532.0,8.0,6.0,Villa,Dubai
+Penthouse in Dubai,62954000,3103.0,8.0,5.0,Penthouse,Dubai
+Penthouse in Dubai,59176800,2824.0,7.0,5.0,Penthouse,Dubai
+Penthouse in Dubai,59176800,2824.0,7.0,5.0,Penthouse,Dubai
+Penthouse in Dubai,59038200,2824.0,7.0,5.0,Penthouse,Dubai
+Penthouse in Dubai,46239700,1844.0,5.0,4.0,Penthouse,Dubai
+Penthouse in Dubai,45326900,2341.0,6.0,5.0,Penthouse,Dubai
+Mansion in Dubai,44067800,2262.0,7.0,6.0,Mansion,Dubai
+Penthouse in Dubai,44067800,2262.0,8.0,6.0,Penthouse,Dubai
+Penthouse in Dubai,44067800,1440.0,6.0,6.0,Penthouse,Dubai
+Mansion in Dubai,42808700,4266.0,8.0,8.0,Mansion,Dubai
+Mansion in Dubai,42808700,4266.0,8.0,8.0,Mansion,Dubai
+Mansion in Dubai,42808700,4266.0,8.0,8.0,Mansion,Dubai
+Penthouse in Dubai,40290600,1412.0,6.0,4.0,Penthouse,Dubai
+Penthouse in Dubai,38553000,2316.0,7.0,6.0,Penthouse,Dubai
+Villa in Dubai,37772400,1723.0,12.0,7.0,Villa,Dubai
+Villa in Dubai,37772400,683.0,6.0,5.0,Villa,Dubai
+Villa in Dubai,32736100,2601.0,12.0,9.0,Villa,Dubai
+Penthouse in Dubai,32736100,1645.0,6.0,5.0,Penthouse,Dubai
+Penthouse in Dubai,31477000,1541.0,7.0,5.0,Penthouse,Dubai
+Apartment in Dubai,31477000,1708.0,7.0,5.0,Apartment,Dubai
+Apartment in Dubai,31477000,1708.0,7.0,5.0,Apartment,Dubai
+Penthouse in Dubai,31477000,1541.0,7.0,5.0,Penthouse,Dubai
+Apartment in Dubai,31477000,845.0,6.0,5.0,Apartment,Dubai
+Penthouse in Dubai,31477000,1017.0,5.0,5.0,Penthouse,Dubai
+Villa in Dubai,30217900,1343.0,6.0,4.0,Villa,Dubai
+Apartment in Dubai,28958800,1767.0,7.0,5.0,Apartment,Dubai
+Villa in Dubai,28958800,2370.0,7.0,5.0,Villa,Dubai
+Penthouse in Dubai,28958800,884.0,4.0,4.0,Penthouse,Dubai
+Villa in Dubai,26440700,1325.0,6.0,5.0,Villa,Dubai
+Villa in Dubai,26360500,2463.0,6.0,5.0,Villa,Dubai
+Villa in Dubai,25181600,2463.0,6.0,5.0,Villa,Dubai
+Villa in Dubai,25181600,2463.0,6.0,5.0,Villa,Dubai
+Mansion in Dubai,25181600,1238.0,7.0,5.0,Mansion,Dubai
+Villa in Dubai,25181600,2463.0,6.0,5.0,Villa,Dubai
+Apartment in Dubai,25181600,1541.0,7.0,5.0,Apartment,Dubai
+Penthouse in Dubai,25181600,1188.0,6.0,4.0,Penthouse,Dubai
+"Luxury home in London, Greater London",45458600,986.0,7.0,9.0,Luxury home,London
+"Apartment in London, Greater London",43732300,650.0,4.0,6.0,Apartment,London
+"Detached House in London, Greater London",36827200,1694.0,7.0,6.0,Detached House,London
+"Semidetached House in London, Greater London",33374700,510.0,8.0,6.0,Semidetached House,London
+"Hotel in West End of London, Greater London",32223800,2500.0,50.0,50.0,Hotel,London
+"Apartment in London, Greater London",28195800,343.0,5.0,4.0,Apartment,London
+"Luxury home in London, Greater London",23017000,500.0,5.0,5.0,Luxury home,London
+"Apartment in London, Greater London",21290700,325.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",19564500,350.0,4.0,4.0,Apartment,London
+"Duplex in London, Greater London",18356100,503.0,5.0,5.0,Duplex,London
+"Apartment in London, Greater London",17205200,406.0,4.0,4.0,Apartment,London
+"Apartment in London, Greater London",16111900,325.0,4.0,3.0,Apartment,London
+"Luxury home in London, Greater London",13234800,675.0,7.0,6.0,Luxury home,London
+"Luxury home in London, Greater London",12947100,424.0,4.0,5.0,Luxury home,London
+"Apartment in London, Greater London",12630600,3944.0,6.0,5.0,Apartment,London
+"Detached House in London, Greater London",11451000,471.0,4.0,6.0,Detached House,London
+"Apartment in London, Greater London",10933100,265.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",10300100,316.0,5.0,4.0,Apartment,London
+"Detached House in London, Greater London",10121700,630.0,5.0,6.0,Detached House,London
+"Penthouse in London, Greater London",9437000,188.0,3.0,5.0,Penthouse,London
+"Luxury home in London, Greater London",8919100,480.0,7.0,6.0,Luxury home,London
+"Detached House in London, Greater London",8919100,401.0,4.0,5.0,Detached House,London
+"Apartment in London, Greater London",7768200,192.0,3.0,4.0,Apartment,London
+"Luxury home in London, Greater London",7307900,269.0,4.0,4.0,Luxury home,London
+"Apartment in London, Greater London",7250400,222.0,4.0,4.0,Apartment,London
+"Apartment in London, Greater London",7129500,148.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",6905100,129.0,2.0,2.0,Apartment,London
+"Detached House in London, Greater London",6847600,868.0,5.0,6.0,Detached House,London
+"Apartment in London, Greater London",6416000,216.0,4.0,4.0,Apartment,London
+"Luxury home in London, Greater London",6329700,235.0,5.0,4.0,Luxury home,London
+"Penthouse in West End of London, Greater London",5725500,220.0,3.0,3.0,Penthouse,London
+"Apartment in London, Greater London",5351500,146.0,4.0,3.0,Apartment,London
+"Apartment in London, Greater London",4833600,159.0,3.0,3.0,Apartment,London
+"Detached House in London, Greater London",4776000,359.0,3.0,5.0,Detached House,London
+"Apartment in London, Greater London",4627600,195.0,2.0,3.0,Apartment,London
+"Luxury home in London, Greater London",4373200,209.0,4.0,4.0,Luxury home,London
+"Apartment in London, Greater London",4286900,190.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",4143100,297.0,2.0,2.0,Apartment,London
+"Townhouse in South West London, Greater London",4028000,174.0,4.0,3.0,Townhouse,London
+"Apartment in London, Greater London",4028000,216.0,2.0,1.0,Apartment,London
+"Apartment in London, Greater London",4028000,160.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",4028000,146.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",4016800,203.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",3855400,151.0,2.0,3.0,Apartment,London
+"Apartment in London, Greater London",3740300,217.0,4.0,5.0,Apartment,London
+"Apartment in London, Greater London",3740300,144.0,3.0,4.0,Apartment,London
+"Apartment in London, Greater London",3682700,132.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",3677000,127.0,2.0,2.0,Apartment,London
+"Apartment in London, Greater London",3682700,206.0,3.0,4.0,Apartment,London
+"Apartment in London, Greater London",3682700,149.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",3659700,135.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",3625200,144.0,3.0,4.0,Apartment,London
+"Apartment in London, Greater London",3555000,135.0,3.0,3.0,Apartment,London
+"Apartment in London, Greater London",3516900,86.0,2.0,2.0,Apartment,London
+"Apartment in London, Greater London",3452600,217.0,3.0,4.0,Apartment,London
+"Apartment in London, Greater London",3452600,140.0,2.0,3.0,Apartment,London
+"Apartment in London, Greater London",3395000,147.0,3.0,4.0,Apartment,London
+"Apartment in London, Greater London",3297200,115.0,2.0,3.0,Apartment,London
+"Luxury home in London, Greater London",3164800,208.0,3.0,3.0,Luxury home,London
+"Apartment in London, Greater London",3164800,123.0,3.0,3.0,Apartment,London
